@@ -1,10 +1,33 @@
-/* bordy color */
+/* body color */
 body{
-    /* background-color: black; */
+    background-color: black; 
 }
 #about-us{color: white;
 font-size: x-large;}
 
 .color-p-h{
     color: #767373;
+    margin: 24px 0 48px 0;
+    text-align: center; font-weight: 900;
 }
+
+/* full-container style */
+.full-container{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+}
+
+
+.logo{
+
+}
+
+
+/* comtainer-right style */
+.comtainer-right{
+    text-align: center;
+    /* justify-items: center; */
+    margin-top: 40px;
+    
